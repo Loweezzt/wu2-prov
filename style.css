@@ -82,4 +82,50 @@
 
 }
 
-.
+.ruta4 {
+    grid-row: 2;
+    grid-column: 1;
+    background-color: white;
+    max-width: 200px;
+    margin: 5px;
+}
+
+.ruta5 {
+    grid-row: 4;
+    grid-column: 1;
+    background-color: white;
+    max-width: 150px;
+    margin-left: 250px;
+    margin-bottom: 50px;
+    margin-top: 5px;
+}
+
+.ruta6 {
+    grid-row: 2;
+    grid-column: 2;
+    background-color: white;
+    max-width: 200px;
+    margin-left: 600px;
+    margin-top: 5px;
+}
+
+.ruta7 {
+    grid-row: 5;
+    grid-column: 2;
+    background-color: white;
+    max-width: 300px;
+    margin-left: 400px;
+    margin-bottom: 200px;
+    margin-top: 5px;
+}
+
+.ruta8 {
+    grid-row: 5;
+    grid-column: 2;
+    background-color: white;
+    max-width: 300px;
+    margin-top: 60px;
+    margin-left: 350px;
+    margin-bottom: 150px;
+    
+}
