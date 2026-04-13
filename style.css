@@ -1,7 +1,10 @@
 .prov-layout {
     display: grid;
-    grid-template-columns: 10fr 20fr;
-    grid-template-rows: 50fr 15fr 15fr 15fr 50fr;
+    grid-template-columns: 3fr 7fr;
+    grid-template-rows: 250px 100px 100px 100px 250px;
+    grid-row-gap: 10px;
+    grid-column-gap: 20px;
+
 }
 
 .bild1 {
