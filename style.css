@@ -1,17 +1,17 @@
 .prov-layout {
     display: grid;
-    grid-template-columns: 3fr 7fr;
+    grid-template-columns: 2fr 4fr;
     grid-template-rows: 250px 100px 100px 100px 250px;
     grid-row-gap: 10px;
     grid-column-gap: 20px;
 
 }
 
-.textrutor {
+/* .textrutor {
     display: grid;
     grid-template-columns: 1fr 2fr 1fr;
     grid-template-rows: 50px;
-}
+} */
 
 .bild1 {
     background-color: red;
@@ -50,5 +50,36 @@
 }
 
 .ruta1 {
-    grid-
+    grid-row: 1 / 1;
+    grid-column: 1;
+    z-index: 1;
+    background-color: white;
+    max-width: 200px;
+    margin-bottom: 100px;
+    margin-top: 5px;
+    margin-left: 5px;
 }
+
+.ruta2 {
+    grid-row: 1 / 1;
+    grid-column-start: 2;
+    z-index: 1;
+    background-color: white;
+    max-width: 200px;
+    margin-bottom: 100px;
+    margin-top: 5px;
+}
+
+.ruta3 {
+    grid-row: 1 / 1;
+    grid-column: 2;
+    z-index: 1;
+    background-color: white;
+    max-width: 200px;
+    margin-bottom: 100px;
+    margin-top: 5px;
+    margin-left: 785px
+
+}
+
+.
