@@ -1,0 +1,29 @@
+.prov-layout {
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr 1fr;
+    grid
+}
+
+.bild1 {
+    background-color: red;
+}
+
+.bild2 {
+    background-color: blue;
+}
+
+.bild3 {
+    background-color: orange;
+}
+
+.bild4 {
+    background-color: pink;
+}
+
+.bild5 {
+    background-color: green;
+}
+
+.bild6 {
+    background-color: grey;
+}
